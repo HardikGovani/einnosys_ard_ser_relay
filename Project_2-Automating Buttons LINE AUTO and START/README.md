@@ -58,7 +58,7 @@ This guide explains how to set up and operate the USB relay controller using Pyt
 2. If no devices are listed, revisit the driver installation steps or verify the DLL path.
 
 ### **Step 6: Operate the Relay**
-1. Run the `sample_app.py` script to control the relays dynamically.
+1. Run the `sample_app.py` script to control the relays dynamically. [ Power the relay board with 12V Adapter]
 2. Key commands to control relays:
    - **Relay 1 (LINE_AUTO)**:
      - `LINE_AUTO-ON`: Turn ON relay 1.
